@@ -1,5 +1,9 @@
 # great_list_view
 
+## BEWARE
+
+This is a fork of a fork of a Flutter plugin that has gone stale.
+
 ## Overview
 
 A Flutter package that includes a powerful, animated and reorderable list view. Just notify the list view of changes in your underlying list and the list view will automatically animate. You can also change the entire list and automatically dispatch the differences detected by the Myers alghoritm. 
